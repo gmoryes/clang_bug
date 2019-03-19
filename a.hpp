@@ -5,8 +5,6 @@
 class Class
 {
 public:
-  
-  bool UseClass();
 
   template<typename T>
   struct Struct {
